@@ -2,7 +2,7 @@
 
 <h3 align='center'>This code is developed to correct the drone's position against the qr code on the y and z axes.</h3>
 
-![Image Banner](img.jpg)
+![Image Banner](img.JPG)
 
 ## Built With
 
