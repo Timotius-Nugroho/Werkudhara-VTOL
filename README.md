@@ -8,7 +8,7 @@
 
 [![pyzbar](https://img.shields.io/badge/pyzbar-0.x-brightgreen)](https://pypi.org/project/pyzbar/)
 [![dronekit](https://img.shields.io/badge/dronekit-2.9.x-brightgreen)](https://dronekit.io/#)
-[![opencv]https://img.shields.io/badge/opencv-4.4.x-orange)](https://pypi.org/project/opencv-python/)
+[![opencv](https://img.shields.io/badge/opencv-4.4.x-orange)](https://pypi.org/project/opencv-python/)
 
 ## How to run the app ?
 
